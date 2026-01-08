@@ -7,7 +7,7 @@ import time
 from datetime import datetime, timedelta
 
 # === КОНФИГУРАЦИЯ ===
-TOKEN = "8263004486:AAER1hWY1LW4su64-XIkgi_bESmqJzy7eYM" # Замени на настоящий
+
 bot = telebot.TeleBot(TOKEN)
 DB_NAME = "vpn_bot.db"
 
